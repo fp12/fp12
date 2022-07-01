@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Interests: C++ / Unreal Engine 4 / Unity 3D / Python
+Interests: C++ / Unreal Engine / Python
 
 [Tech blog](https://fp12.github.io/)
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/fpoupineau/)!
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/fpoupineau/)!
 
 <!--
 **fp12/fp12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
